@@ -1,0 +1,25 @@
+﻿@CarManagementSystem_HostAddress = https://localhost:7119
+
+GET {{CarManagementSystem_HostAddress}}/api/v1/cars/
+
+###
+
+POST {{CarManagementSystem_HostAddress}}/api/v1/cars/AddCar
+Content-Type: application/json
+
+{
+  "model": "Tesla Model S",
+  "price": 79999.99,
+  "isAvailable": true,
+  "secret":"specially designed for Arif Aqeel Ahmad"
+}
+
+###
+
+GET {{CarManagementSystem_HostAddress}}/api/v1/cars/2
+
+###
+
+GET {{CarManagementSystem_HostAddress}}/api/v1/cars/DeleteCar/1
+
+###

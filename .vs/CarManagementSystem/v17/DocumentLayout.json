@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6_weekend backend\\asp.net project\\CarManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE831873-4ACC-4D91-A14B-3DE9A35EBF35}|CarManagementSystem.csproj|d:\\6_weekend backend\\asp.net project\\carmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE831873-4ACC-4D91-A14B-3DE9A35EBF35}|CarManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE831873-4ACC-4D91-A14B-3DE9A35EBF35}|CarManagementSystem.csproj|d:\\6_weekend backend\\asp.net project\\carmanagementsystem\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE831873-4ACC-4D91-A14B-3DE9A35EBF35}|CarManagementSystem.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE831873-4ACC-4D91-A14B-3DE9A35EBF35}|CarManagementSystem.csproj|d:\\6_weekend backend\\asp.net project\\carmanagementsystem\\cardtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE831873-4ACC-4D91-A14B-3DE9A35EBF35}|CarManagementSystem.csproj|solutionrelative:cardtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarDtos.cs",
+              "DocumentMoniker": "D:\\6_weekend backend\\asp.net project\\CarManagementSystem\\CarDtos.cs",
+              "RelativeDocumentMoniker": "CarDtos.cs",
+              "ToolTip": "D:\\6_weekend backend\\asp.net project\\CarManagementSystem\\CarDtos.cs",
+              "RelativeToolTip": "CarDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:57:50.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\6_weekend backend\\asp.net project\\CarManagementSystem\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\6_weekend backend\\asp.net project\\CarManagementSystem\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:52:15.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6_weekend backend\\asp.net project\\CarManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\6_weekend backend\\asp.net project\\CarManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:17:09.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
